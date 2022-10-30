@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    <h1 style="color:lawngreen;(0, 0, 255)">HELLO WORLD</h1>
+    <h2>Charles Gil C. Tagala</h2>
+    <h2>File types of Website</h2>
+    <ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>JavaScript</li>
+    </ul>
+     <a href="https://www.w3schools.com/">
+        <button style="background-color:rgb(26, 24, 24);color:rgb(43, 255, 0);border-radius:5px;">Learn now</button>
+    </a>
+     <img src="https://miro.medium.com/max/720/1*l4xICbIIYlz1OTymWCoUTw.jpeg" alt="Name" height="150">
+       <p>
+         <a href="https://facebook.com">Go to Facebook</a>
+       </p>
+    <style>
+       table,th,td {
+         border:1px solid black;
+       }
+    </style>
+       <table style="border:100%;">
+        <tr>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
+         <tr>
+          <td></td>
+          <td></td>  
+          <td></td>                
+         </tr>
+       </table>
+     </body>
+</html>
